@@ -109,13 +109,13 @@ These phytochemicals have been identified as potential therapeutic agents for ta
 📂 **Project Structure**
 
 📁 Breast-Cancer-RAG-Assistant
-│
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Dependencies
-├── .env                    # API keys (not uploaded)
-├── chroma_db/              # Auto-generated vector store
-├── rag.png                 # Screenshot of the App
-└── README.md               # Project documentation
+
+- app.py                  # Main Streamlit application
+- requirements.txt        # Dependencies
+- .env                    # API keys (not uploaded)
+- chroma_db/              # Auto-generated vector store
+- README.md/              # Project documentation
+     -rag.png             # Screenshot of the app
 
 📚 **Concepts Learned**
 
@@ -140,11 +140,11 @@ Deployed live on Streamlit Cloud:
 
 🧑‍💻 **Author**
 
-Sanjana Ghosh
+**Sanjana Ghosh**
 Bioinformatics Postgraduate | Exploring AI?GenAI in Biopharma
-🔗 LinkedIn: https://www.linkedin.com/in/sanjana-ghosh-2a5b7c11d/ 
-• GitHub: https://github.com/SanjanaGhosh7
-• Medium: https://medium.com/@sanjanaghosh25 
+🔗 **LinkedIn**: https://www.linkedin.com/in/sanjana-ghosh-2a5b7c11d/ 
+• **GitHub**: https://github.com/SanjanaGhosh7
+• **Medium**: https://medium.com/@sanjanaghosh25 
 
 🧭 **Future Improvements**
 
