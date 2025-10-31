@@ -7,3 +7,4 @@ langchain_groq
 sentence-transformers
 chromadb
 python-dotenv
+langchain-huggingface
