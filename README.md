@@ -144,9 +144,9 @@ Deployed live on Streamlit Cloud:
 
 **Sanjana Ghosh**
 
-Bioinformatics Postgraduate | Exploring AI?GenAI in Biopharma
+Bioinformatics Postgraduate | Exploring AI/GenAI in Biopharma
 
-🔗 **LinkedIn**: https://www.linkedin.com/in/sanjana-ghosh-2a5b7c11d/ 
+🔗 • **LinkedIn**: https://www.linkedin.com/in/sanjana-ghosh-2a5b7c11d/ 
 
 • **GitHub**: https://github.com/SanjanaGhosh7
 
