@@ -102,7 +102,9 @@ Then open http://localhost:8501
 “Based on the provided context from the PubMed paper "Breast Tumor Microenvironment: Emerging Target of Therapeutic Phytochemicals" by Malla R. R. et al. (2020), the top 3 phytochemicals targeting the HER2 pathway in breast cancer are:
 
 **Curcumin:** Curcumin, a polyphenol derived from turmeric, has been shown to inhibit the HER2 pathway by suppressing the expression of HER2 protein and its downstream signaling molecules.
+
 **Quercetin:** Quercetin, a flavonoid found in various fruits and vegetables, has been reported to inhibit the HER2 pathway by blocking the activation of HER2 receptor and its downstream signaling molecules.
+
 **Gingerol:** Gingerol, a bioactive compound derived from ginger, has been shown to inhibit the HER2 pathway by suppressing the expression of HER2 protein and its downstream signaling molecules.
 These phytochemicals have been identified as potential therapeutic agents for targeting the HER2 pathway in breast cancer, and further research is needed to explore their efficacy and safety in clinical settings.”
 
